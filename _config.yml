@@ -1,8 +1,8 @@
----
+
 title: "Tutorial writing"
 date: 2018-12-27
----
-#title: Tutorial writing
+
+title: Tutorial writing
 author: 凛辰过
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
